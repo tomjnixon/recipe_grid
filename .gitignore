@@ -6,3 +6,4 @@ dist/
 *.egg-info/
 pip-selfcheck.json
 docs/build/
+result
